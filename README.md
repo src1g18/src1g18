@@ -14,7 +14,7 @@ high, and I will always try to perform to the most excellent standard.
 
 
 
-The Hyperion Dev bootcamp has taught me a range of coding skills and I am close to completing the software engineering bootcamp.
+The Hyperion Dev bootcamp has taught me a range of coding skills and I have completed the Software Engineering coding bootcamp.
 
 Currently, tech jobs are in high demand and there is a market of jobs available in the market. The main programming language currently being taught is python.
 
