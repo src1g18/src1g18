@@ -1,6 +1,6 @@
 <h1>Coding Profile of Shahid</h1>
 
-<img src-"shahid.png" width= ""400px">
+<img src="shahid.png" width ="200">
 
 My background: 
 
